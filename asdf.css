@@ -1,0 +1,80 @@
+body {
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  
+} 
+
+#IMAGE{
+  border-spacing: 40px;
+  border-radius: 25px;
+}
+
+#aus10{
+  color: #05687C
+}
+
+
+#heading {
+  size: 20px;
+  text-align: center;
+  color: black;
+  background-color: aqua;
+  line-height: 50px;
+}
+
+#cen {
+  size: 20px;
+  text-shadow: 40px;
+  text-align: center;
+  color: black; 
+}
+
+#ABDIS {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid steelblue;
+  padding: 50px;
+  margin: 20px;
+  padding: 50px;
+  display: inline-block;
+}
+
+#aboutAbdus {
+  font-size: 19px;
+}
+
+#logo {
+  background-color: lightgrey;
+  width: 450px;
+  border: 15px solid steelblue;
+  padding: 50px;
+  margin: 20px;
+  padding: 50px; 
+  display: inline-block;
+}
+
+#ourLogo {
+  font-size: 19px;
+}
+
+#programing_sec{
+    background-color: lightgrey;
+  width: 450px;
+  border: 15px solid steelblue;
+  padding: 50px;
+  margin: 20px;
+  padding: 50px; 
+  display: inline-block;
+}
+
+#ourProgram {
+  font-size: 19px;
+}
+#programingImg{
+  width: 350px;
+  border-radius: 8px;
+}
+
+#logoImg{
+  border-radius: 8px;
+}
